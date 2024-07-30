@@ -9,7 +9,7 @@ It will also put the focus directly to the backdrop's label, so you can start ty
 
 By default, it uses the shortcut shift-b to create a backdrop node. That way you can very quickly organize your script.
 
-[auto_backdrop.mp4](auto_backdrop.mp4)
+![auto_backdrop.gif](auto_backdrop.gif)
 
 ## Installation
 
